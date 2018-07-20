@@ -1,11 +1,12 @@
 # 本次小程序的修改基于开源的"守望轩"小程序，以下是夏老师写的教程以及小程序一路走来的历程，欢迎食用
-![小程序欣赏](https://cxcat.com/wp-content/uploads/2018/07/wxmiao.jpg)
+![猫小镇小程序欣赏](https://cxcat.com/wp-content/uploads/2018/07/wxmiao.jpg)
 
 # WordPress版微信小程序 猫小镇开源地址
 https://github.com/webzol/kit
 
-# 为了让小白新手更好的使用小程序，以下由晗绪小童学做了详细的教程
+# 为了让小白新手更好的使用小程序，以下由晗绪小童学做了详细的教程 
 https://www.kancloud.cn/hnxeguo/wpforwx
+![unear实验室小程序欣赏](https://cxcat.com/wp-content/uploads/2018/07/un.jpg)
 
 ![wordpress微信小程序](https://www.watch-life.net/images/2017/06/winxinapp-wordpress-watch-life-new-700.jpg)
 
