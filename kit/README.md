@@ -1,5 +1,8 @@
+###本次小程序的修改基于开源的"守望轩"小程序，以下是夏老师写的教程以及小程序一路走来的历程，欢迎食用
+![小程序欣赏](https://cxcat.com/wp-content/uploads/2018/07/wxmiao.jpg)
 # WordPress版微信小程序
-
+# 猫小镇小程序开源地址
+https://github.com/webzol/kit
 ![wordpress微信小程序](https://www.watch-life.net/images/2017/06/winxinapp-wordpress-watch-life-new-700.jpg)
 
 ![wordpress微信小程序](https://www.watch-life.net/images/wordpresswinxinapp700.png) 

@@ -78,7 +78,6 @@
   font-weight: normal;
   font-size: 24rpx;
   line-height: 10rpx;
-  color: red;
 }
 
 .comment {
@@ -346,7 +345,6 @@
   position: absolute;
   top: 120rpx;
   left: 160rpx;
-  background: red;
 }
 
 .likeText {
