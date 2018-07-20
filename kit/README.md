@@ -9,7 +9,7 @@ https://www.kancloud.cn/hnxeguo/wpforwx
 
 ![unear实验室小程序欣赏](https://cxcat.com/wp-content/uploads/2018/07/un.jpg)
 
-# 以下是wordpress开源者守望轩教程以及小程序的历程
+# 以下是wordpress小程序开源者——守望轩教程以及的历程
 ![wordpress微信小程序](https://www.watch-life.net/images/2017/06/winxinapp-wordpress-watch-life-new-700.jpg)
 
 ![wordpress微信小程序](https://www.watch-life.net/images/wordpresswinxinapp700.png) 
