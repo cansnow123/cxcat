@@ -616,8 +616,26 @@
   top: 999999rpx;
   left: 0;
 }
-
-
+.share{
+  text-align:center;
+  position:fixed;
+  bottom:140px;
+  right:20px;
+  border-radius:50%;
+  background:rgba(0,0,0,.3);
+  width:100rpx;
+  height:100rpx;
+  overflow: hidden;
+}
+.share view{
+  margin-top: 4px;
+}
+.share text{
+  font-size: 30rpx;
+  position: relative;
+  top: -10px;
+  color: white;
+}
 
 
 

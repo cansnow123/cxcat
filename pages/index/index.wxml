@@ -20,7 +20,7 @@
           <view class="search-pancel">
               <input color="#d3d3d3" value="" id="search-input" name="input" confirm-type="search" class="search-input" placeholder="找你感兴趣的..." bindconfirm="formSubmit"></input>
               <button class="search-button" form-type="submit" size="mini" plain="true">
-                  <icon type="search" color="#FECB00" size="16" />
+                  <icon type="search" color="#ccc" size="16" />
               </button>
           </view>
       </form>
@@ -29,7 +29,7 @@
   <view class="food-recommend">
     <view class="food-list-wrap">
       <view class="food-list">
-        <view bindtap="tofoodDetail" class="food-item" data-wepy-params-a="{{item.food}}" wx:for="{{postsList}}" id="{{item.id}}" bindtap="redictDetail" wx:for-index="i" wx:key="i">
+        <view bindtap="redictDetail" class="food-item" data-wepy-params-a="{{item.food}}" wx:for="{{postsList}}" id="{{item.id}}" wx:for-index="i" wx:key="i">
           <view class="food-detail">
             <image class="food-icon" src="{{item.content_first_image}}" mode="aspectFill"></image>
             <view class="food-bg"></view>
@@ -48,7 +48,6 @@
                 <text class="entry-icon-text">{{item.pageviews}}</text>
                 <image src="../../images/home-like.png" style="height:24rpx;width:24rpx;margin-left: 20rpx;"></image>
                 <text class="entry-icon-text">{{item.like_count}}</text>
-
             </view>
             </view>
           </view>

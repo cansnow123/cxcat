@@ -60,28 +60,21 @@
 
 .common-list {
   margin-bottom: 24rpx;
+  padding:20rpx 2rpx 0rpx 2rpx;
 }
 
 .common-list .list-item {
-  /* position: relative;
-  border-bottom: 1px solid #eee;content_first_imagecontent_first_imagecontent_first_imagecontent_
-  padding: 24rpx;
-  min-height: 150rpx;
-  overflow: hidden; */
   position:relative;
   min-height:260rpx;
   overflow:hidden;
-  background-color:#f2f2f2;
   margin-bottom:48rpx;
-  border-radius:5%;
+  border-radius:12rpx;
+  box-shadow:2rpx 4rpx 40rpx #c2c2c2;
 }
 .common-list .list-item>image{
   width: 100%;
 }
 .common-list .list-item.has-img .content-title {
-  /* margin-left: 200rpx;
-  height: 80rpx;
-  margin-bottom: 20rpx; */
    padding:16px 10rpx 10rpx 30rpx;
   text-overflow:ellipsis;
   overflow:hidden;
@@ -237,11 +230,6 @@
     padding: 10px 15px;
     border-radius:5px;
 }
-
-.login-inner {
-    display: flex;
-}
-
 .login-inner .avatar {
     width: 50px;
     height: 50px;
@@ -255,7 +243,6 @@
 }
 
 .login-inner .username {
-    display: flex;
     align-items: center;
 }
 

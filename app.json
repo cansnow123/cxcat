@@ -4,12 +4,10 @@
         "pages/detail/detail",
         "pages/logs/logs",
         "pages/page/page",
-        "pages/about/about",
         "pages/list/list",
         "pages/topic/topic",
         "pages/readlog/readlog",
         "pages/hot/hot",
-        "pages/pay/pay",
         "pages/webpage/webpage",
         "pages/comments/comments",
         "pages/poster/poster"
@@ -36,7 +34,13 @@
                 "pagePath": "pages/hot/hot",
                 "iconPath": "images/ranking.png",
                 "selectedIconPath": "images/tar-topic-on.png",
-                "text": "专题"
+                "text": "栏目"
+            },
+            {
+              "pagePath": "pages/topic/topic",
+              "iconPath": "images/zt.png",
+              "selectedIconPath": "images/zt-on.png",
+              "text": "专题"
             },
             {
                 "pagePath": "pages/readlog/readlog",
